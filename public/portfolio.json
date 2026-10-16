@@ -1,12 +1,12 @@
 {
   "name": "Tanish Chaudhary",
-  "role": "Aspiring Full Stack Developer",
-  "tagline": "Building modern web experiences with React.",
-  "about": "I am a computer science student passionate about web development and solving real-world problems.",
-  "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
-  "interests": ["Web development", "Open source", "Problem solving", "UI design"],
-  "profileImage": "/profile.png",
-  "email": "aarav@example.com",
+  "role": "Aspiring Software Developer",
+  "tagline": "Learning to code, Building Projects, and Growing every day.",
+  "about": "I am a BCA Student with a strong interest in Software Developement and Technology.I am currently learning programming, web development, and new technical skills. I enjoy exploring new technologies, solving problems, and applying my knowledge through practical projects.",
+  "goals": "My goal is to become a skilled software developer, build real-world projects, secure an internship in the IT industry, and continuously improve my technical and problem-solving abilities..",
+  "interests": ["Web development", "Software Developement", "Problem solving", "Learning New Technology"],
+  "profileImage": "/profile picture.png",
+  "email": "chaudharytanish752@gmail.com",
   "socials": {
     "github": "https://github.com/",
     "linkedin": "https://linkedin.com/"
